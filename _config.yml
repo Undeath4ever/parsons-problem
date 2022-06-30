@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Arthur eloquent gestaltete Website
+title: Parsons Problem Übungen
 email: arthur.wagemann@studium.uni-hamburg.de
 description: # >- # this means to ignore newlines until "baseurl:"
   Drag or shuffle the blocks of code in the practice problems below.
