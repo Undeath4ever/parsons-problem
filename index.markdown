@@ -5,7 +5,8 @@
     <input id="Hello_World-feedbackLink" value="Get Feedback" type="button" /> 
     <input id="Hello_World-newInstanceLink" value="Reset Problem" type="button" /> 
 </p> 
-Hallo
+Wir wollen herausfinden, ob die eingetippte Zahl gerade oder ungerade ist.
+Dies ist ein zweidiemensionales Parson Problem: bringe die Blöcke in die richtige Reihenfolge und achte auf die Python übliche einrückung deines codes. 
 <script type="text/javascript"> 
 (function(){
   var initial = "public static void main(String args[])\n" +
