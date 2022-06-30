@@ -5,6 +5,7 @@
     <input id="Hello_World-feedbackLink" value="Get Feedback" type="button" /> 
     <input id="Hello_World-newInstanceLink" value="Reset Problem" type="button" /> 
 </p> 
+Hallo
 <script type="text/javascript"> 
 (function(){
   var initial = "public static void main(String args[])\n" +
